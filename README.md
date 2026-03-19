@@ -28,7 +28,7 @@ class HrishikeshNaik:
 
     def current_focus(self):
         return {
-            "AI"       : "Agentic workflows, RAG pipelines, fine-tuned LLMs",
+            "AI"       : "Agentic workflows, RAG pipelines,
             "Robotics" : "AGVs, AMRs, Drones, ROS2 navigation stacks",
         }
 
