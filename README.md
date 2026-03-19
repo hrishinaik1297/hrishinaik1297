@@ -21,7 +21,7 @@
 class HrishikeshNaik:
     def __init__(self):
         self.name       = "Hrishikesh Naik"
-        self.role       = ["Specialist — AI & Robotics", "GenAI Engineer", "Startup Founder"]
+        self.role       = ["Specialist — AI & Robotics", "Mechatronics Engineer"]
         self.location   = "Pune, India 🇮🇳"
         self.languages  = ["Python", "C++", "Bash"]
         self.obsessions = ["LLM Agents", "Autonomous Robots", "Building things that move & think"]
@@ -30,7 +30,6 @@ class HrishikeshNaik:
         return {
             "AI"       : "Agentic workflows, RAG pipelines, fine-tuned LLMs",
             "Robotics" : "AGVs, AMRs, Drones, ROS2 navigation stacks",
-            "Startup"  : "AdRide — smart cab-top LED advertising platform 🚖",
         }
 
     def motto(self):
